@@ -1,2 +1,2 @@
-# asda2da3
-This is TestProjectNameMaven124123
+# maven_template
+This is testow2o12345
